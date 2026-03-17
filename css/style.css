@@ -2,3 +2,10 @@
     width: 3rem;
     height: 3rem;
 }
+
+.head1{
+    background: linear-gradient(#f00,#00f);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
